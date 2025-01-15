@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Jagat Upadhyay, and I like python coding, deve
 - ⚡ Fun fact: [Something interesting about you]
 
 ## 🛠️ My Skills
-- **Languages**: [e.g., Python, JavaScript, C++]
+- **Languages**: Python
 - **Frameworks**: [e.g., Django, React, Flask]
 - **Tools**: [e.g., Git, Docker, Kubernetes]
 - **Interests**: [e.g., AI, Machine Learning, Web Development]
